@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Assignment 1: R Markdown practice
 
 > ### Important

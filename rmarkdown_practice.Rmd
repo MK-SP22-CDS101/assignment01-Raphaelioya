@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: R Markdown practice"
-author: "Seo Seungwoo"
+author: "Seungwoo Seo"
 date: "`r Sys.Date()`"
 documentclass: article
 geometry: margin=1in
@@ -25,12 +25,8 @@ output:
 urlcolor: blue
 ---
 
-<!-- Write your Markdown below this line -->
-```{r}
-a <- 5
-
-```
 
 
+# Section
 
 
